@@ -134,7 +134,6 @@ export default async function Home() {
         </Carousel>
       </div>
 
-
       <div className="container-cards">
 
         {matches.map(({ date, team1, team2, goals1, goals2 }) => (
